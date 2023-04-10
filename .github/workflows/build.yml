@@ -13,7 +13,7 @@ on:
 
     
 env:
-  ROM_URL: https://do6prasq.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip?xyip=112.65.29.39&xyct=158&xy_nosvr=true&xy_usource=download-xys.meizu.com&xy_rid=*1Oz19wi*Tq2R4&xy_oid=43158&xy_nc=2NvfI1==
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatchb7fe21ca78f0523a/bigota.d.miui.com/22.5.23/miui_ENUMA_22.5.23_a78fac9cc9_11.0.zip?bsreqid=52fc9e6bd13ca76a228234baa04ab0a2&DPhost=xiaomi.baishancdnx.cn
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
